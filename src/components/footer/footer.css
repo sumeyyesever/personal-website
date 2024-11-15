@@ -1,0 +1,10 @@
+.footer-container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 13px;
+    color: rgb(161, 156, 156);
+    border-top: 1px #b6bdc4 solid;
+    padding-top: 20px;
+}

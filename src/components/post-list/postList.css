@@ -1,0 +1,39 @@
+.post-list{
+    margin-bottom: 30px;
+}
+
+.post-list-item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.post-list-item-left{
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+}
+
+.post-list-tag{
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 5px 5px 7px 5px;
+    border: 1.5px solid black;
+    text-decoration: 2.5px underline blueviolet;
+    text-underline-offset: 5px;
+}
+
+.post-list-item-title{
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.post-list-item-title:hover{
+    color: brown;
+}
+
+.post-list-time{
+    font-size: 14px;
+    color: rgb(148, 115, 115);
+}
