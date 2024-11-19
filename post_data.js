@@ -1,5 +1,12 @@
 export const postData = [
     {
+        id: 7,
+        title: "Web Scraping with BeautifulSoup",
+        date: "19-11-2024",
+        tag: "python",
+        link: "https://fog-polyanthus-dff.notion.site/Web-Scraping-with-BeautifulSoup-143181d62524805597d0cfa807042d7f"
+    },
+    {
         id: 6,
         title: "Turn URL to QR code image",
         date: "18-11-2024",
