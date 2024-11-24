@@ -4,6 +4,7 @@ import PostList from "../../components/post-list/PostList"
 import "./posts.css"
 import { Link } from "react-router-dom";
 import { postData } from "../../../post_data";
+import Footer from "../../components/footer/Footer";
 
 export default function Posts() {
     const [uniqueTags, setUniqueTags] = useState([]);
@@ -36,8 +37,9 @@ export default function Posts() {
                 </Link>
           ))}        
             </div>
-            <PostList name="all" />
+            <PostList name="all" page="posts" />
         </div>
+        <Footer />
     </>
   )
 }

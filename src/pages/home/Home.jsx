@@ -4,7 +4,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import "./home.css"
 import PostList from "../../components/post-list/PostList";
 import Footer from "../../components/footer/Footer";
-// import PostList from "../../components/post_list/PostList";
+import { Link } from "react-router-dom";
 
 export default function Home() {
 
@@ -23,8 +23,12 @@ export default function Home() {
       </div>
       <hr />
       <h3 className="post-list-title">Latest posts</h3>
-      {/* <PostList name="all"/> */}
-      <PostList name="all" />
+      <PostList name="all" page="home" />
+      <div className="see-all-posts-container">
+        <Link to="/posts" className="see-all-posts-link">
+          <span>See all posts</span>
+        </Link>
+      </div>
   
       <Footer />
     </div>
