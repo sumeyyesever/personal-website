@@ -1,5 +1,40 @@
 export const postData = [
     {
+        id: 20,
+        title: "Make the Contact Me! Form Work with Flask and smtplib",
+        date: "28-12-2024",
+        tag: "python",
+        link: "https://fog-polyanthus-dff.notion.site/Make-the-Contact-Me-Form-Work-with-Flask-and-smtplib-163181d6252480c882fbf167eec7aac1"
+    },
+    {
+        id: 19,
+        title: "Make POST Requests with Flask and HTML Forms",
+        date: "28-12-2024",
+        tag: "python",
+        link: "https://fog-polyanthus-dff.notion.site/Make-POST-Requests-with-Flask-and-HTML-Forms-15a181d6252480999936e029cb074dbc"
+    },
+    {
+        id: 18,
+        title: "Templating with Jinja in Flask Applications",
+        date: "28-12-2024",
+        tag: "python",
+        link: "https://fog-polyanthus-dff.notion.site/Templating-with-Jinja-in-Flask-Applications-156181d62524804eb583fe8142e4b589"
+    },
+    {
+        id: 17,
+        title: "How to Use Website Templates to Speed Up Web Development?",
+        date: "28-12-2024",
+        tag: "python",
+        link: "https://fog-polyanthus-dff.notion.site/How-to-Use-Website-Templates-to-Speed-Up-Web-Development-155181d6252480ad802ffb3894a07695"
+    },
+    {
+        id: 16,
+        title: "What is Flask?",
+        date: "28-12-2024",
+        tag: "python",
+        link: "https://fog-polyanthus-dff.notion.site/What-is-Flask-153181d625248086b2d0cc029c3d1293?pvs=73"
+    },
+    {
         id: 15,
         title: "What is REST?",
         date: "7-12-2024",
