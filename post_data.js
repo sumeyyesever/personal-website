@@ -1,23 +1,37 @@
 export const postData = [
     {
+        id: 22,
+        title: "Code Chronicles 2025: My Daily Tech Journey",
+        date: "2-1-2025",
+        tag: "techjournal",
+        link: "https://fog-polyanthus-dff.notion.site/Code-Chronicles-2025-My-Daily-Tech-Journey-16f181d6252480c4a3d8c4234270d5ec?pvs=73"
+    },
+    {
+        id: 21,
+        title: "My Tailwind CSS Learning Journey",
+        date: "2-1-2025",
+        tag: "tailwind",
+        link: "https://fog-polyanthus-dff.notion.site/My-Tailwind-CSS-Learning-Journey-170181d62524802e9a53df95d9f9828a"
+    },
+    {
         id: 20,
         title: "Make the Contact Me! Form Work with Flask and smtplib",
         date: "28-12-2024",
-        tag: "python",
+        tag: "flask",
         link: "https://fog-polyanthus-dff.notion.site/Make-the-Contact-Me-Form-Work-with-Flask-and-smtplib-163181d6252480c882fbf167eec7aac1"
     },
     {
         id: 19,
         title: "Make POST Requests with Flask and HTML Forms",
         date: "28-12-2024",
-        tag: "python",
+        tag: "flask",
         link: "https://fog-polyanthus-dff.notion.site/Make-POST-Requests-with-Flask-and-HTML-Forms-15a181d6252480999936e029cb074dbc"
     },
     {
         id: 18,
         title: "Templating with Jinja in Flask Applications",
         date: "28-12-2024",
-        tag: "python",
+        tag: "flask",
         link: "https://fog-polyanthus-dff.notion.site/Templating-with-Jinja-in-Flask-Applications-156181d62524804eb583fe8142e4b589"
     },
     {
@@ -31,7 +45,7 @@ export const postData = [
         id: 16,
         title: "What is Flask?",
         date: "28-12-2024",
-        tag: "python",
+        tag: "flask",
         link: "https://fog-polyanthus-dff.notion.site/What-is-Flask-153181d625248086b2d0cc029c3d1293?pvs=73"
     },
     {
