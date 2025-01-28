@@ -1,17 +1,38 @@
 export const postData = [
     {
-        id: 22,
+        id: 25,
         title: "Code Chronicles 2025: My Daily Tech Journey",
         date: "2-1-2025",
         tag: "techjournal",
         link: "https://fog-polyanthus-dff.notion.site/Code-Chronicles-2025-My-Daily-Tech-Journey-16f181d6252480c4a3d8c4234270d5ec?pvs=73"
     },
     {
-        id: 21,
+        id: 24,
         title: "My Tailwind CSS Learning Journey",
         date: "2-1-2025",
         tag: "tailwind",
         link: "https://fog-polyanthus-dff.notion.site/My-Tailwind-CSS-Learning-Journey-170181d62524802e9a53df95d9f9828a"
+    },
+    {
+        id: 23,
+        title: "All About Frameworks",
+        date: "30-12-2024",
+        tag: "tech",
+        link: "https://fog-polyanthus-dff.notion.site/All-About-Frameworks-16e181d6252480efb8e2fbdd03508944"
+    },
+    {
+        id: 22,
+        title: "What is SQLAlchemy?",
+        date: "29-12-2024",
+        tag: "python",
+        link: "https://fog-polyanthus-dff.notion.site/What-is-SQLAlchemy-169181d6252480deb1aef5e40ce0a7b9"
+    },
+    {
+        id: 21,
+        title: "What is SQLite?",
+        date: "29-12-2024",
+        tag: "sqlite",
+        link: "https://fog-polyanthus-dff.notion.site/What-is-SQLite-166181d6252480f182abe3279ceb8a95"
     },
     {
         id: 20,
