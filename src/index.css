@@ -5,8 +5,9 @@
   font-family: "Fira Code", monospace;
 }
 
-body{
-  margin: 30px 20%;
+body {
+  margin: 20px 20%;
+  min-height: 100vh;
 }
 
 li{

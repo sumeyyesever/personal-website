@@ -6,15 +6,19 @@
     margin-bottom: 30px;
 }
 
-.posts-tags-container{
+.posts-tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px 10px; 
     margin-bottom: 100px;
+    max-width: 100%; 
 }
 
-.single-tag{
-    margin-right: 10px;
+.single-tag {
     border: 1px solid black;
-    padding: 15px 2px;
-    font-size: 20px;
+    margin-bottom: 200px;
+    padding: 10px 15px;
+    font-size: 18px;
     font-weight: bold;
     color: white;
     background-color: black;
