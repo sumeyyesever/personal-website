@@ -11,7 +11,7 @@
 .post-list-item-left{
     display: flex;
     align-items: center;
-    column-gap: 5px;
+    gap: 5px;
 }
 
 .post-list-tag{
@@ -35,5 +35,33 @@
 
 .post-list-time{
     font-size: 14px;
+    margin-bottom: 5px;
     color: rgb(148, 115, 115);
 }
+
+@media (max-width: 640px) {
+    .post-list-item {
+        display: flex;
+        flex-direction: column-reverse;
+        margin-bottom: 20px;
+    }
+    .post-list-item-left{
+        align-items: self-start;
+        flex-direction: column;
+    }
+    .post-list-item-title{
+        flex-wrap: nowrap;
+    }
+    .post-list-tag{
+        cursor: pointer;
+        font-size: 15px;
+        font-weight: 600;
+        padding: 0;
+        border: none;
+        text-decoration: 2.5px underline blueviolet;
+        text-underline-offset: 5px;
+    }
+    .post-list-tag:hover{
+        opacity: 0.8;
+    }
+  }

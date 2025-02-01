@@ -8,16 +8,21 @@ export default function Personal() {
     <Header />
     <div className='personal-container'>
         <h1 className="personal-title">Personal</h1>
-        <img className="personal-img" src="/personal-img.jpg" />
-        <p>I'm not sure what to write here, but i want to create personal page so i am adding some things so it's not empty.</p><br />
-        <h3>Current Obsessions:</h3>
-        <ul>
-          <li>Books: A Wizard of Earthsea by Ursula K. Le Guin</li>
-          <li>Movies: The Wild Robot by Chris Sanders</li>
-          <li>Songs: Disease - Lady Gaga, Let There Be Light - Woosung & Bol4, Rainbow - Vincent Blue</li>
-          <li>Food: Pickels. I am a simple person.</li>
-          <li>Animal: Cats. Always.</li>
-        </ul>
+        <p>I 🩵 books, movies, music, cats, nice long breakfast, fruits, doodling, computers, coffee, earl grey tea, blue, tiramisu, home, and sunset.</p><br />
+        <h3>My 2024 Media Favorites</h3>
+        <div className="media-container">
+          <h5 className="media-title">Books</h5>
+          <img src="2.png" className="personal-img" />
+        </div>
+        <div className="media-container">
+          <h5 className="media-title">Movies</h5>
+          <img src="3.png" className="personal-img" />
+        </div>
+        <div className="media-container">
+          <h5 className="media-title">Songs</h5>
+          <a className="link songs-link" href="https://music.youtube.com/playlist?list=PLMeWw29g0iRRNcwmgMCxUASfN6fC4Ruy7" target="_blank">🎶Youtube Music Playlist</a>
+          <img src="4.png" className="personal-img" />
+        </div>
     </div>
     <Footer />
     </>

@@ -34,3 +34,9 @@ a {
 a:visited {
   color: inherit; 
 }
+
+@media (max-width: 640px) {
+  body {
+      margin: 20px 10%;
+  }
+}
