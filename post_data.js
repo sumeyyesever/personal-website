@@ -8,10 +8,10 @@ export const postData = [
     },
     {
         id: 24,
-        title: "My Tailwind CSS Learning Journey",
+        title: "Tailwind CSS with the Tailwind CLI tool",
         date: "2-1-2025",
         tag: "tailwind",
-        link: "https://fog-polyanthus-dff.notion.site/My-Tailwind-CSS-Learning-Journey-170181d62524802e9a53df95d9f9828a"
+        link: "https://fog-polyanthus-dff.notion.site/Tailwind-CSS-with-the-Tailwind-CLI-tool-170181d62524802e9a53df95d9f9828a"
     },
     {
         id: 23,

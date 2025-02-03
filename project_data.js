@@ -9,7 +9,7 @@ export const projectData = [
             I know there are many points I need to work on, but Tailwind CSS started to wear me out after a while, so I'm leaving it as is for now. I'll come back to it later.<span class="project-date">(13.10.24)</span><br />
             For those gonna search for recipes on BonAfiyet, here are a few recipe suggestions (since TheMealDB api offers very few recipes): Kumpir, Key Lime Pie and Ratatouille. (There isn’t even a Tiramisu recipe available there)<br /><br />
             Important points that need improvement:<br />
-            • Adding responsiveness<br />
+            • Adding responsiveness (✔️Done)<br />
             • Showing suggestions below the recipe search box as the user types<br /><br />
             The design could be much better, but I think it's cute like this anyway.👻
         `
