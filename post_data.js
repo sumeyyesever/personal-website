@@ -1,10 +1,38 @@
 export const postData = [
     {
-        id: 25,
+        id: 29,
         title: "Code Chronicles 2025: My Daily Tech Journey",
         date: "2-1-2025",
         tag: "techjournal",
         link: "https://fog-polyanthus-dff.notion.site/Code-Chronicles-2025-My-Daily-Tech-Journey-16f181d6252480c4a3d8c4234270d5ec?pvs=73"
+    },
+    {
+        id: 28,
+        title: "Motherboards",
+        date: "4-3-2025",
+        tag: "hardware",
+        link: "https://fog-polyanthus-dff.notion.site/Motherboards-1a8181d6252480e989adf1d0c45479d3"
+    },
+    {
+        id: 27,
+        title: "Cable Types",
+        date: "25-2-2025",
+        tag: "hardware",
+        link: "https://fog-polyanthus-dff.notion.site/Cable-Types-1a4181d625248011a15ee97618902e29"
+    },
+    {
+        id: 26,
+        title: "Amazon Web Services",
+        date: "18-2-2025",
+        tag: "aws",
+        link: "https://fog-polyanthus-dff.notion.site/Amazon-Web-Services-1ad181d625248075b475e42c5c30ff58"
+    },
+    {
+        id: 25,
+        title: "What is Cloud Computing?",
+        date: "15-2-2025",
+        tag: "tech",
+        link: "https://fog-polyanthus-dff.notion.site/What-is-Cloud-Computing-196181d6252480528c07eca040288779"
     },
     {
         id: 24,
