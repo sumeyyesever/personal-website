@@ -1,10 +1,38 @@
 export const postData = [
     {
-        id: 29,
+        id: 33,
         title: "Code Chronicles 2025: My Daily Tech Journey",
         date: "2-1-2025",
         tag: "techjournal",
         link: "https://fog-polyanthus-dff.notion.site/Code-Chronicles-2025-My-Daily-Tech-Journey-16f181d6252480c4a3d8c4234270d5ec?pvs=73"
+    },
+    {
+        id: 32,
+        title: "Storage Devices",
+        date: "4-5-2025",
+        tag: "hardware",
+        link: "https://fog-polyanthus-dff.notion.site/Storage-Devices-1e7181d625248027adf0f68c0f3e8aaa?pvs=73"
+    },
+    {
+        id: 31,
+        title: "BIOS/UEFI",
+        date: "30-4-2025",
+        tag: "hardware",
+        link: "https://fog-polyanthus-dff.notion.site/BIOS-UEFI-1e6181d62524800bbc92e532bc09e0cb"
+    },
+    {
+        id: 30,
+        title: "System Memory",
+        date: "23-4-2025",
+        tag: "hardware",
+        link: "https://fog-polyanthus-dff.notion.site/System-Memory-1dd181d6252480e29240f7eb63a1949b"
+    },
+    {
+        id: 29,
+        title: "Cooling and Power",
+        date: "12-4-2025",
+        tag: "hardware",
+        link: "https://fog-polyanthus-dff.notion.site/Cooling-and-Power-1b1181d6252480099b77c0a208824001"
     },
     {
         id: 28,
