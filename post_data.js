@@ -1,10 +1,17 @@
 export const postData = [
     {
-        id: 33,
+        id: 34,
         title: "Code Chronicles 2025: My Daily Tech Journey",
         date: "2-1-2025",
         tag: "techjournal",
         link: "https://fog-polyanthus-dff.notion.site/Code-Chronicles-2025-My-Daily-Tech-Journey-16f181d6252480c4a3d8c4234270d5ec?pvs=73"
+    },
+    {
+        id: 33,
+        title: "AWS IAM - Identity and Access Management",
+        date: "8-5-2025",
+        tag: "aws",
+        link: "https://fog-polyanthus-dff.notion.site/AWS-IAM-Identity-and-Access-Management-1b0181d6252480738a3ae4209c0dbb2b"
     },
     {
         id: 32,
